@@ -1,20 +1,20 @@
-### Python-Projects
+# Python-Projects
 
 In here,I have done four projects using various concepts of python such as condition,function and OOPS.The projects are,
 
 ## Banking Management System
   In this project,i have created a banking management system for a user to 
-  # create an account 
-  # deposit and withdrew money from their account 
-  # check balance and get statement for their account
+  ### create an account 
+  ### deposit and withdrew money from their account 
+  ### check balance and get statement for their account
   So,user can create an account by enter their basic details and they can deposit,withdrew 
   and also check their account balance and get statemet by using their secret pin number and their name.
   
 ## Coffee Vendor Machine 
   In this project,i have created a program for coffee vendor machine which produces three types of coffees such as
-  # Espresso
-  # Latte
-  # Cappuccino.
+  ### Espresso
+  ### Latte
+  ### Cappuccino.
   User can get any of these three coffees from the machine if the machine has required water,milk and coffee 
   and also if the user enters the required money to the machine to start the coffee making process.
   We can turn off the machine if we enter correct employee id and the keyword.
