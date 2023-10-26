@@ -4,9 +4,9 @@ In here,I have done four projects using various concepts of python such as condi
 
 ## Banking Management System
   * In this project,i have created a banking management system for a user to 
-   <b>create an account </b>
-  ### deposit and withdrew money from their account 
-  ### check balance and get statement for their account
+   <b><u>create an account </u></b> and 
+   <b><u>deposit and withdrew money from their account</u></b>
+   <b><u>check balance and get statement for their account</u></b>
   * So,user can create an account by enter their basic details and they can deposit,withdrew 
   and also check their account balance and get statement by using their secret pin number and their name.
   
