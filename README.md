@@ -8,7 +8,7 @@ The projects are,
    <b>create an account </b> and 
    <b>deposit and withdrew money from their account</b> and 
    <b>check balance and get statement for their account</b>.
-  * So,user can create an account by enter their basic details and they can genereate their secret pin number.
+  * So,user can create an account by enter their basic details and they can generate their secret pin number.
   * Account won't be generated if the pin number and account holder name matches with previous users account details.
   * Account number and Customer ID will be generated automatically.
   * User can deposit,withdrew money from their account and user can also check their account balance and get statement by using their secret pin number and their name.
