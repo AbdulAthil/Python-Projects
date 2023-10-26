@@ -29,3 +29,5 @@ The projects are,
   * In this project,i have created a program for a food order taking machine which can be used in hotels.
   * The waiter can place customer's orders from the customer place(table) and no need to go to the kitchen to tell the customer's orders
   * And they can also generate bill for the orders to give the bill to the customers and the bill will be automatically updated to the billing section.
+  * Customer can't cancel a single or multiple items from the order. If they want to cancel any item they have to cancel the complete order and make a new order.
+  * If the customer wants to add another item in their order, the order and the bill will be added separately and combines with the previous order.
