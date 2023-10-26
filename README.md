@@ -8,7 +8,7 @@ In here,I have done four projects using various concepts of python such as condi
   ### deposit and withdrew money from their account 
   ### check balance and get statement for their account
   So,user can create an account by enter their basic details and they can deposit,withdrew 
-  and also check their account balance and get statemet by using their secret pin number and their name.
+  and also check their account balance and get statement by using their secret pin number and their name.
   
 ## Coffee Vendor Machine 
   In this project,i have created a program for coffee vendor machine which produces three types of coffees such as
