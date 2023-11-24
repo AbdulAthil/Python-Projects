@@ -11,7 +11,7 @@ The projects are,
   * So,user can create an account by enter their basic details and they can generate their secret pin number.
   * Account won't be generated if the pin number and account holder name matches with previous users account details.
   * Account number and Customer ID will be generated automatically.
-  * User can deposit,withdrew money from their account and user can also check their account balance and get statement by using their secret Pin number and their name.
+  * User can deposit,withdrew money from their account and user can also check their account balance and get statement by using their secret pin number and their name.
   
 ## Coffee Vendor Machine 
   * In this project, I have created a program for coffee vendor machine which produces three types of coffees such as <b>Espresso</b> and <b>Latte</b> and <b>Cappuccino</b>
