@@ -5,7 +5,7 @@ The projects are,
 
 ## Banking Management System
   * In this project, i have created a banking management system for a user to 
-   <b>create an account </b> and 
+   <b>create an account </b>
    <b>deposit and withdrew money from their account</b> and 
    <b>check balance and get statement for their account</b>.
   * So,user can create an account by enter their basic details and they can generate their secret pin number.
