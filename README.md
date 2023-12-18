@@ -26,7 +26,7 @@ The projects are,
   * Any user can see the availability of seats in two flights and their respective classes.
 
 ## Hotel Food Order Taking Machine
-  * In this project,I have created a program for a food order taking machine which can be used in hotels.
+  * In this project, I have created a program for a food order taking machine which can be used in hotels.
   * The waiter can place customer's orders from the customer place(table) and no need to go to the kitchen to tell the customer's orders
   * And they can also generate bill for the orders to give the bill to the customers and the bill will be automatically updated to the billing section.
   * Customer can't cancel a single or multiple items from the order. If they want to cancel any item they have to cancel the complete order and make a new order.
