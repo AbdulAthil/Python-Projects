@@ -20,7 +20,7 @@ The projects are,
   * We can turn off the machine if we enter correct employee id and the keyword.
   
 ## Flight Ticket Reservation System
-  * In this project,I have created a flight ticket reservation system for a airline which has two flights and two classes for each flights.
+  * In this project, I have created a flight ticket reservation system for a airline which has two flights and two classes for each flights.
   * User can book a ticket in this two flights if the tickets are available at the moment.
   * And user also can be cancel a ticket. But the cancellation fee will be collected from the user.
   * Any user can see the availability of seats in two flights and their respective classes.
