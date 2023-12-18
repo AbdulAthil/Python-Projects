@@ -4,7 +4,7 @@ In here, I have done four projects using various concepts of python such as cond
 The projects are,
 
 ## Banking Management System
-  * In this project, i have created a banking management system for a user to 
+  * In this project, I have created a banking management system for a user to 
    <b>create an account </b>
    <b>deposit and withdrew money from their account</b> and 
    <b>check balance and get statement for their account</b>.
