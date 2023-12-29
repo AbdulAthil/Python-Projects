@@ -14,7 +14,7 @@ The projects are,
   * User can deposit,withdrew money from their account and user can also check their account balance and get statement by using their secret pin number and their name.
   
 ## Coffee Vendor Machine 
-  * In this project, i have created a program for coffee vendor machine which produces three types of coffees such as <b>Espresso</b> and <b>Latte</b> and <b>Cappuccino</b>
+  * In this project, I have created a program for coffee vendor machine which produces three types of coffees such as <b>Espresso</b> and <b>Latte</b> and <b>Cappuccino</b>
   * User can get any of these three coffees from the machine if the machine has required water,milk and coffee 
   and also if the user enters the required money to the machine to start the coffee making process.
   * We can turn off the machine if we enter correct employee id and the keyword.
