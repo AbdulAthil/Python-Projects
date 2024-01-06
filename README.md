@@ -6,13 +6,13 @@ The projects are,
 ## Banking Management System
 * Created a Banking Management System with user-friendly features:
 * Easy account creation with basic details input
-     * Automatic generation of Account Number and Customer ID
-Secure PIN number generation
-Transactions:
-Deposit and withdraw money
-Check account balance
-Request statements
-Simple access using PIN number and account holder's name
+    * Automatic generation of Account Number and Customer ID
+    * Secure PIN number generation
+    * Transactions:
+        * Deposit and withdraw money
+        * Check account balance
+        * Request statements
+    * Simple access using PIN number and account holder's name
 *Enhanced user experience for managing banking transactions.
   
 ## Coffee Vendor Machine 
