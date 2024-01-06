@@ -4,14 +4,16 @@ In here, I have done four projects using various concepts of python such as cond
 The projects are,
 
 ## Banking Management System
-  * In this project, I have created a banking management system for a user to 
-   <b>create an account </b>
-   <b>deposit and withdrew money from their account</b> and 
-   <b>check balance and get statement for their account</b>.
-  * So,user can create an account by enter their basic details and they can generate their secret pin number.
-  * Account won't be generated if the pin number and account holder name matches with previous users account details.
-  * Account number and Customer ID will be generated automatically.
-  * User can deposit,withdrew money from their account and user can also check their account balance and get statement by using their secret pin number and their name.
+ * Created a Banking Management System with user-friendly features:
+      * Easy account creation with basic details input
+Automatic generation of Account Number and Customer ID
+Secure PIN number generation
+Transactions:
+Deposit and withdraw money
+Check account balance
+Request statements
+Simple access using PIN number and account holder's name
+*Enhanced user experience for managing banking transactions.
   
 ## Coffee Vendor Machine 
   * In this project, I have created a program for coffee vendor machine which produces three types of coffees such as <b>Espresso</b> and <b>Latte</b> and <b>Cappuccino</b>
