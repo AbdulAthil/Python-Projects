@@ -4,9 +4,9 @@ In here, I have done four projects using various concepts of python such as cond
 The projects are,
 
 ## Banking Management System
- * Created a Banking Management System with user-friendly features:
-      * Easy account creation with basic details input
-Automatic generation of Account Number and Customer ID
+* Created a Banking Management System with user-friendly features:
+* Easy account creation with basic details input
+     * Automatic generation of Account Number and Customer ID
 Secure PIN number generation
 Transactions:
 Deposit and withdraw money
