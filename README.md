@@ -1,6 +1,6 @@
 # Python-Projects
 
-In here, I have done four projects using various concepts of python such as **conditions**, loops, functions and OOPS.
+In here, I have done four projects using various concepts of python such as **conditions**, **loops**, functions and OOPS.
 The projects are,
 
 ## Banking Management System
